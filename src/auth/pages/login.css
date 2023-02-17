@@ -1,0 +1,35 @@
+body {
+  background-color: rgba(20, 175, 137, 0.993);
+}
+
+.login-container {
+  background-color: rgba(20, 175, 137, 0.993);
+  color: white;
+  padding: 5%;
+  border-radius: 10px;
+  box-shadow: 0 0 5px #7a7a7a;
+  margin-top: 15%;
+  background-color: rgb(4, 4, 29);
+}
+
+.btnSubmit {
+  background-color: rgba(20, 175, 137, 0.993);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 0px;
+  font-weight: 600;
+  width: 100%;
+
+  margin-top: 5px;
+}
+
+.form-control {
+  background-color: transparent;
+  border: 1px solid white;
+}
+
+.form-control::placeholder {
+  color: rgba(255, 255, 255, 0.712);
+  font-weight: 300;
+}
